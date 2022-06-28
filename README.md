@@ -8,6 +8,9 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sachin-mishra19566/)
 - ⚡ Fun fact: **Intel Inside, Idiot Outside**
 
+🚀 Languages and Tools:
+    ![Test Image 1](download.png)
+
 - 📫 Location
 ```geojson
 {

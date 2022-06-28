@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **SachinMishra-ux/SachinMishra-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,8 +10,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Data Science
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sachin-mishra19566/)
-- 😄 Pronouns: ...
 - ⚡ Fun fact: Intel Inside, Idiot Outside
 
 
-![](https://i.gifer.com/6DMV.gif) !-->
+![](https://i.gifer.com/6DMV.gif) !

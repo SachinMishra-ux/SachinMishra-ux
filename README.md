@@ -9,7 +9,7 @@
 - ⚡ Fun fact: **Intel Inside, Idiot Outside**
 
 🚀 Languages and Tools:
-    ![Test Image 1](download.png)
+    
 
 - 📫 Location
 ```geojson

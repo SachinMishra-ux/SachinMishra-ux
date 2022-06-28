@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-**SachinMishra-ux/SachinMishra-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on **Image Classification**
 - 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on **OpenSource and Team Projects**
@@ -11,6 +7,35 @@ Here are some ideas to get you started:
 - 💬 Ask me about Data Science
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sachin-mishra19566/)
 - ⚡ Fun fact: **Intel Inside, Idiot Outside**
+
+- 📫 Location
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "ID": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+              [-19.0760,72.8777],
+              [-90,30],
+              [-85,30],
+              [-85,35],
+              [-90,35]
+          ]
+        ]
+      }
+    }
+  ]
+}
+```
+
 
 
 ![](https://i.gifer.com/6DMV.gif) !

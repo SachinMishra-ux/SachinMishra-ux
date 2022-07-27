@@ -8,11 +8,7 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sachin-mishra19566/)
 - ⚡ Fun fact: **Intel Inside, Idiot Outside**
 
-🚀 Languages and Tools:
-    <a href="https://www.qries.com/">
-         <img alt="Qries" src="https://www.qries.com/images/banner_logo.png"
-         width=150" height="70">
-      </a>
+
 ---
 
 <h3 align="left">💻 Languages and Tools: </h3>

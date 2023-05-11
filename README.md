@@ -97,37 +97,9 @@
 
 <h3 align="center">Let's Connect!</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/harsh-kudtarkar-4540b6160/"><img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/harsh_15.99"><img height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/harry15_99?t=qfneEZoQOqTyhDg&s=08"><img height="30" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sachin-mishra19566/"><img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/sachin19566/"><img height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/sachin19566?t=qfneEZoQOqTyhDg&s=08"><img height="30" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;
 </p>
 
 <br>
-
-- 📫 Location
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-              [-19,72],
-              [-19,72],
-              [-19,72],
-              [-19,73],
-              [-19,72]
-          ]
-        ]
-      }
-    }
-  ]
-}
-```

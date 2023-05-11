@@ -16,7 +16,7 @@
 ![C](https://img.shields.io/badge/-%23ED8B00.svg?style=for-the-badge&logo=c&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![HTML](https://img.shields.io/static/v1?label=HTML&message=5&color=E34F26&style=for-the-badge&logo=html5)
-![Matlab](https://img.shields.io/badge/matlab-%23ED8B00.svg?style=for-the-badge&logo=matlab&logoColor=white)
+
   
   <a href="https://www.programiz.com/c-programming" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
@@ -57,16 +57,7 @@
     <img src="https://camo.githubusercontent.com/a9e049ade1147226016feb1ab0024b7e09cf5e6ce7921aa9e7326942f98c71dd/687474703a2f2f636f6e74656e742e61726475696e6f2e63632f6272616e642f61726475696e6f2d636f6c6f722e737667"
       alt="arduino" width="40" height="40" /> 
   </a> 
-    
-  <a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank" rel="noreferrer"> 
-    <img src="https://user-images.githubusercontent.com/48672827/57464068-a2a35580-72ae-11e9-9d52-7cadbf0cb940.png"
-      alt="xilinx vivado" width="40" height="40" /> 
-  </a> 
-    
-  <a href="https://www.altium.com/altium-designer" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/github/explore/7af95003139e68a3a54e382bb4f23a72836ef348/topics/altium-designer/altium-designer.png"
-      alt="altium designer" width="40" height="40" /> 
-  </a> 
+ 
 </p>
 
 

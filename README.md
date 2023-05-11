@@ -20,11 +20,6 @@
       alt="c" width="40" height="40" /> 
   </a> 
   
-  <a href="https://www.programiz.com/cpp-programming" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus" width="40" height="40" /> 
-  </a> 
-  
   <a href="https://web.dev/learn/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
       width="40" height="40" /> 
@@ -39,26 +34,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
       alt="mysql" width="40" height="40" /> 
   </a>
-   
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs" width="40" height="40" /> 
-  </a> 
-  
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"
-      width="40" height="40" /> 
-  </a> 
   
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
       width="40" height="40" /> 
-  </a> 
-  
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="40" height="40" /> 
-  </a> 
+  </a>
     
   <a href="https://learnxinyminutes.com/docs/bash/" target="_blank" rel="noreferrer"> 
     <img src="https://camo.githubusercontent.com/bbb327d6ba7708520eaafd13396fed64d73bf5df5c4cdd0ba03cf0843f7a9340/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676e755f626173682f676e755f626173682d69636f6e2e737667"
@@ -100,20 +80,20 @@
 <br/>
 
 <p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=harshk-99&show_icons=true&theme=radical&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=harshk-99&theme=radical&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=SachinMishra-ux&show_icons=true&theme=radical&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=SachinMishra-ux&theme=radical&hide_border=true" />
   </a>
 </p>
 
 <br>
 
 <p align=center>
-  <img src="https://github-profile-trophy.vercel.app/?username=harshk-99&theme=radical&no-frame=true&column=6&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SachinMishra-ux&theme=radical&no-frame=true&column=6&row=1" />
 </p>
 
 ---
 
-![My Activity Graph](https://activity-graph.herokuapp.com/graph?username=harshk-99&custom_title=Harsh's%20Contribution%20Graph%20📈&theme=react-dark&hide_border=true&line=d1a01f&point=c58545)
+![My Activity Graph](https://activity-graph.herokuapp.com/graph?username=SachinMishra-ux&custom_title=Sachin's%20Contribution%20Graph%20📈&theme=react-dark&hide_border=true&line=d1a01f&point=c58545)
 
 <h3 align="center">Let's Connect!</h3>
 <p align="center">

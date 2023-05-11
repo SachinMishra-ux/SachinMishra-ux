@@ -20,6 +20,11 @@
       alt="c" width="40" height="40" /> 
   </a> 
   
+  <a href="https://www.programiz.com/c-programming" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+      alt="c" width="40" height="40" /> 
+  </a> 
+  
   <a href="https://web.dev/learn/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
       width="40" height="40" /> 
@@ -70,11 +75,6 @@
       alt="altium designer" width="40" height="40" /> 
   </a> 
 </p>
-
-<h3>📊 Statistical Data: </h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=harshk-99&show_icons=true&theme=radical&locale=en&layout=compact"
-    alt="" />SachinMishra-ux</p>
 
 ---
 <br/>
